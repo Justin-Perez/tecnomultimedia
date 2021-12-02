@@ -76,7 +76,6 @@ class Historia {
       text("Siguiente", width-200, height-100);
     } else if (estado.equals("dec1")) {
       background(0);
-      //ambiente2.play();
       image(i.dec[1], 0, 0, width, height-100);
       fill(255, 0, 0);
       textAlign(CENTER);
