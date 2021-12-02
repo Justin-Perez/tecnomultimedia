@@ -14,7 +14,6 @@ void setup() {
   ambiente = minim.loadFile("ambiente.mp3");
   risa = minim.loadFile("risa.mp3");
   desaparece = minim.loadFile("desaparece.mp3");
-  //ambiente = new SoundFile (this,"ambiente.mp3");
 
 }
 
